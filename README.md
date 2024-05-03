@@ -1,4 +1,4 @@
-# Credit Risk Classification
+# Credit Risk Classification Logistic Regression
 
 ### Overview
 This analysis involves leveraging diverse techniques to develop and assess a model centered on loan risk assessment. Utilizing a dataset containing historical lending data, the objective is to construct a robust model capable of detecting the creditworthiness of borrowers. Through a series of steps including data preprocessing, exploratory analysis, feature selection, model training, evaluation, and interpretation, the analysis aims to create an effective tool for identifying lending risks.
